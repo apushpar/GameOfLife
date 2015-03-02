@@ -10,31 +10,31 @@
 	<string>GameOfLife</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D3EBAE31F9D7FE9154FF6453BBA9655464B250E9</key>
-		<string>github.com:apushpar/GameOfLifeTemplate-Spritebuilder.git</string>
+		<key>2B93DAC376760DE0D13326063DDADB276407D3CB</key>
+		<string>https://github.com/apushpar/GameOfLife.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>GameOfLife.spritebuilder/GameOfLife.xcodeproj</string>
+	<string>GameOfLife.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D3EBAE31F9D7FE9154FF6453BBA9655464B250E9</key>
-		<string>../../..</string>
+		<key>2B93DAC376760DE0D13326063DDADB276407D3CB</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:apushpar/GameOfLifeTemplate-Spritebuilder.git</string>
+	<string>https://github.com/apushpar/GameOfLife.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D3EBAE31F9D7FE9154FF6453BBA9655464B250E9</string>
+	<string>2B93DAC376760DE0D13326063DDADB276407D3CB</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D3EBAE31F9D7FE9154FF6453BBA9655464B250E9</string>
+			<string>2B93DAC376760DE0D13326063DDADB276407D3CB</string>
 			<key>IDESourceControlWCCName</key>
-			<string>GameOfLifeTemplate-Spritebuilder</string>
+			<string>GameOfLife</string>
 		</dict>
 	</array>
 </dict>
